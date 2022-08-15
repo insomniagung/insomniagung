@@ -10,7 +10,7 @@ If you are interested in getting to know me, please follow my [LinkedIn] (https:
 
 Thank You. 
 
-
+### Github Statistic
 <p align="left">
 <a href="https://github.com/insomniagung">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=insomniagung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
