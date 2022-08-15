@@ -1,10 +1,7 @@
 ### Hi everyone! I'm Agung Gunawan 👋
 
-I am a student majoring in Information Technology at Darma Persada University, East Jakarta. I love to learn any programming language. 
+I'm currently a student majoring in Information Technology at Darma Persada University, East Jakarta. I'd like to learn any programming language, especially Java, JavaScript, and PHP. 
 
-If you are interested in getting to know me, please follow my [LinkedIn] (https://www.linkedin.com/in/agunggunawan14/) account. 
-
-Thank You. 
 
 ### Github Statistic
 <p align="left">
@@ -13,3 +10,7 @@ Thank You.
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=insomniagung&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Reach me on
+- <a href="https://linkedin.com/in/insomniagung/">LinkedIn</a>
+- <a href="https://instagram.com/insomniagung">Instagram</a>
