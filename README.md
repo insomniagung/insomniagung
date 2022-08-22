@@ -1,6 +1,6 @@
 ### Hi everyone! I'm Agung 👋
 
-I'm currently a student majoring in Information Technology at Darma Persada University, East Jakarta. I'd like to learn any programming language, But I'm focused to web development. 
+I'm currently a student in **Information Technology** at *Darma Persada University*, East Jakarta, Indonesia. **I'd like to learn any programming language**, But now I'm focus to web development. 
 
 
 ### Github Statistic
@@ -12,5 +12,5 @@ I'm currently a student majoring in Information Technology at Darma Persada Univ
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/insomniagung/">LinkedIn</a>
-- <a href="https://instagram.com/insomniagung">Instagram</a>
+- <a href="https://linkedin.com/in/insomniagung/">**LinkedIn**</a>
+- <a href="https://instagram.com/insomniagung">**Instagram**</a>
