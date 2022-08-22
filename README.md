@@ -1,6 +1,6 @@
 ### Hi everyone! I'm Agung 👋
 
-I'm currently a student majoring in Information Technology at Darma Persada University, East Jakarta. I'd like to learn any programming language, especially Java, JavaScript, and PHP. 
+I'm currently a student majoring in Information Technology at Darma Persada University, East Jakarta. I'd like to learn any programming language, But I'm focused to web development. 
 
 
 ### Github Statistic
