@@ -1,6 +1,6 @@
 ### Hi everyone! I'm Agung 👋
 
-I'm currently a student in **Information Technology** at *Darma Persada University*, East Jakarta, Indonesia. **I'd like to learn any programming language**, But now I'm focus to web development. 
+I'm currently a student in **Information Technology** at *Darma Persada University*, East Jakarta, Indonesia. **I'd like to learn any programming language**. 
 
 
 ### Github Statistic
