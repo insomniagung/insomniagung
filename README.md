@@ -2,6 +2,9 @@
 
 I'm currently a student in **Information Technology** at *Darma Persada University*, East Jakarta, Indonesia. **I'd like to learn any programming language**. 
 
+### Online courses that I also participated in
+- <a href="https://www.dicoding.com/users/agung6n/academies">**Dicoding**</a>
+- <a href="https://www.udemy.com/user/agung-gunawan-17">**Udemy**</a>
 
 ### Github Statistic
 <p align="left">
