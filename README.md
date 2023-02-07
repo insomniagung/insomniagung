@@ -1,4 +1,8 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=insomniagung.insomniagung&left_color=grey&right_color=green)
+<p align="left">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=insomniagung&repo=github-visitors-badge&labelColor=black&countColor=green" width="80px" />
+  </a>
+</p>
 
 ### Hi there! 👋
 <p align="left">
@@ -30,7 +34,7 @@ I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is buildi
 <a href="https://github.com/insomniagung?tab=repositories"><img alt="CSS" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="87px">
 </a>
 <!-- MySQL -->
-<a href="https://github.com/insomniagung?tab=repositories"><img alt="HTML" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="63.2px">
+<a href="https://github.com/insomniagung?tab=repositories"><img alt="HTML" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="63px">
 </a>
 <!-- JavaScript -->
 <a href="https://github.com/insomniagung?tab=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
