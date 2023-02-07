@@ -1,5 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-
 ### Hi there! 👋
 <a href="https://www.instagram.com/a.gunggunawan/">
   <img align="left" alt="Agung Gunawan Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -8,7 +6,7 @@
   <img align="left" alt="Agung Gunawan LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=insomniagung.insomniagung&left_color=blue&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=insomniagung.insomniagung&left_color=black&right_color=green)
 
 I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is building software with great ideas based on user requirements, developing code from my knowledge and experience.
 
