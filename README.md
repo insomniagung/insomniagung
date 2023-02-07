@@ -1,5 +1,6 @@
-### Hi there! 👋
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 
+### Hi there! 👋
 <a href="https://www.instagram.com/a.gunggunawan/">
   <img align="left" alt="Agung Gunawan Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
