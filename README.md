@@ -10,6 +10,8 @@
 
 I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is building software with great ideas based on user requirements, developing code from my knowledge and experience.
 
+<img align="right" alt="GIF" src="https://github.com/insomniagung/insomniagung/blob/master/code.gif?raw=true" width="500" height="320" />
+
 ### Github Stats :
 <p align="left">
 <a href="https://github.com/insomniagung">
