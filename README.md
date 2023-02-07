@@ -1,6 +1,14 @@
 ### Hi there! 👋
+<a href="https://www.instagram.com/a.gunggunawan/">
+  <img align="left" alt="Agung Gunawan Instagram" width="20px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/agunggunawan8/">
+  <img align="left" alt="Agung Gunawan LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Hi, I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is building software with great ideas based on user requirements, using code developed from my knowledge and experience.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=insomniagung.insomniagung&left_color=blue&right_color=red)
+
+I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is building software with great ideas based on user requirements, developing code from my knowledge and experience.
 
 ### Online courses that I also participated in :
 - <a href="https://www.dicoding.com/users/agung6n/academies">**Dicoding**</a>
@@ -13,7 +21,3 @@ Hi, I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is bu
   <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=insomniagung&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Reach me on :
-- <a href="https://linkedin.com/in/insomniagung">**LinkedIn**</a>
-- <a href="https://instagram.com/insomniagung">**Instagram**</a>
