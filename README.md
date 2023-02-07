@@ -1,10 +1,4 @@
-<p align="left">
-  <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=insomniagung&repo=github-visitors-badge&labelColor=black&countColor=green" width="80px" />
-  </a>
-</p>
-
-### Hi there! 👋
+### Hi there. 👋
 <p align="left">
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/agunggunawan8/">
@@ -17,6 +11,10 @@
 <!-- Youtube -->
 <a href="https://www.youtube.com/@insomniagung/videos/">
   <img alt="Agung Gunawan Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white" />
+</a>
+<!-- Visitors -->
+<a href="#">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=insomniagung&repo=github-visitors-badge&labelColor=black&countColor=green" width="82px" />
 </a>
 </p>
 
