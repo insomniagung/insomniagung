@@ -18,7 +18,7 @@
 
 I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is building software with great ideas based on user requirements, developing code from my knowledge and experience.
 
-### Stack :
+### Languages and tools :
 <p align="left">
 <!-- HTML -->
 <a href="https://github.com/insomniagung?tab=repositories"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
