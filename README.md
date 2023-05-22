@@ -9,7 +9,7 @@
   <img alt="Agung Gunawan Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
 </a>
 <!-- Youtube -->
-<a href="https://www.youtube.com/@insomniagung/videos/">
+<a href="https://www.youtube.com/@a.gunggunawan/videos">
   <img alt="Agung Gunawan Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white" />
 </a>
 <!-- Visitors -->
