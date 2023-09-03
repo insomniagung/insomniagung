@@ -14,7 +14,7 @@
 </a>
 <!-- Visitors -->
 <a href="#">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=insomniagung&repo=github-visitors-badge&labelColor=black&countColor=green" width="82px" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=insomniagung&repo=github-visitors-badge&labelColor=black&countColor=green" width="83px" />
 </a>
 </p>
 
