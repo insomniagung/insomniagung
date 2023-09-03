@@ -60,5 +60,4 @@ I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is buildi
 </p>
 
 ### Online courses where I get certified :
-- <a href="https://www.dicoding.com/users/agunggunawan8/academies">**Dicoding Indonesia**</a>
-- <a href="https://www.udemy.com/user/agung-gunawan-17">**Udemy**</a>
+- <a href="https://www.dicoding.com/users/agunggunawan8/academies">**Dicoding**</a>
