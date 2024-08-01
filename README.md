@@ -4,12 +4,16 @@
 <a href="https://www.linkedin.com/in/agunggunawan8/">
   <img alt="Agung Gunawan LinkedIn" src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
+  
 <!-- IG -->
+<!--
 <a href="https://www.instagram.com/a.gunggunawan/">
   <img alt="Agung Gunawan Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
 </a>
+-->
+  
 <!-- Youtube -->
-<a href="https://www.youtube.com/@a.gunggunawan/videos">
+<a href="https://www.youtube.com/@agunggunawan8/videos">
   <img alt="Agung Gunawan Youtube" src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white" />
 </a>
 <!-- Visitors -->
