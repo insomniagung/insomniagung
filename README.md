@@ -32,17 +32,33 @@ I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is buildi
 <!-- CSS  -->
 <a href="https://github.com/insomniagung?tab=repositories"><img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
 </a>
-<!-- Bootstrap  -->
-<a href="https://github.com/insomniagung?tab=repositories"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="87px">
-<!-- Tailwind  -->
-<a href="https://github.com/insomniagung?tab=repositories"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" width="88px">
-</a>
 <!-- JavaScript -->
-<a href="https://github.com/insomniagung?tab=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+<a href="https://github.com/insomniagung?tab=repositories"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" width="80px">
 </a>
 <!-- React -->
 <a href="https://github.com/insomniagung?tab=repositories"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" width="61px">
 </a>
+</p>
+  
+<p align="left">
+<!-- PHP -->
+<a href="https://github.com/insomniagung?tab=repositories"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="51px">
+</a>
+<!-- Bootstrap  -->
+<a href="https://github.com/insomniagung?tab=repositories"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" width="87px">
+</a>
+<!-- Laravel -->
+<a href="https://github.com/insomniagung?tab=repositories"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="74px">
+</a>
+<!-- Tailwind  -->
+<a href="https://github.com/insomniagung?tab=repositories"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss" width="90px">
+</a>
+<!-- MySQL -->
+<a href="https://github.com/insomniagung?tab=repositories"><img alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="63px">
+</a>
+</p>
+
+<p align="left">
 <!-- Python -->
 <a href="https://github.com/insomniagung?tab=repositories"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </a>
@@ -51,12 +67,6 @@ I'm Agung Gunawan, a self-taught programmer from Indonesia. My passion is buildi
 </a>
 <!-- Jupyter Notebook -->
 <a href="https://github.com/insomniagung?tab=repositories"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" width="72px">
-</a>
-<!-- Laravel -->
-<a href="https://github.com/insomniagung?tab=repositories"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="74px">
-</a>
-<!-- MySQL -->
-<a href="https://github.com/insomniagung?tab=repositories"><img alt="SQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" width="63px">
 </a>
 </p>
 
